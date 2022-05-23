@@ -5,6 +5,7 @@ My original [Python project](https://github.com/JustASpeedrunner/DigitalLiteracy
 
 
 ## How To Run
+### Method 1
 -Install [rustup](https://rustup.rs/)
 
 -Download the main.rs file from this repo
@@ -12,3 +13,8 @@ My original [Python project](https://github.com/JustASpeedrunner/DigitalLiteracy
 -Locate the directory which you downloaded the main.rs file to and run `rustc main.rs`
 
 -Then run the resulting executable
+
+### Method 2
+-Download a binary from the [releases](https://github.com/JustASpeedrunner/DigitalLiteracyCalculatorRewritePartTwo/releases) tab
+
+**NOTE:** I cannot guarentee the functionality of binaries for Windows nor MacOS, as I do not have machines to test them on. If the binary does not work for you, please use Method 1.
