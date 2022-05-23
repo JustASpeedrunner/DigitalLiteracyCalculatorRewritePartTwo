@@ -11,7 +11,7 @@ fn main() {
     io::stdin()
         .read_line(&mut op)
         .expect("Failed to read line");
-    let op: f32 = op.trim().parse().expect("Select number of your operation.");
+    let op: i32 = op.trim().parse().expect("Select number of your operation.");
 
     if op == 1 {
         println!("Enter your first number to be added:");
