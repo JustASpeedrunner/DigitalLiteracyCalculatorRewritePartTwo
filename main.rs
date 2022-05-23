@@ -76,7 +76,6 @@ fn main() {
     } else {
         println!("Invalid input.");
     }
-
 }
 
 fn sub(ado:f32, adt:f32) {
