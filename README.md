@@ -2,7 +2,7 @@
 My original [Python project](https://github.com/JustASpeedrunner/DigitalLiteracyCalculator) [rewritten in Lua](https://github.com/JustASpeedrunner/DigitalLiteracyCalculatorRewrite) rewritten in Rust
 
 
-## How to run
+## How To Run
 -Install [rustup](https://rustup.rs/)
 
 -Download the main.rs file from this repo
