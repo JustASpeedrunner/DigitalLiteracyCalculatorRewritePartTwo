@@ -5,7 +5,7 @@ My original [Python project](https://github.com/JustASpeedrunner/DigitalLiteracy
 
 
 ## How To Run
-### Method 1
+### Method 1 (Recommended)
 -Install [rustup](https://rustup.rs/)
 
 -Download the main.rs file from this repo
