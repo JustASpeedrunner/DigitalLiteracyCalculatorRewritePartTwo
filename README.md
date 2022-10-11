@@ -18,3 +18,5 @@ My original [Python project](https://github.com/JustASpeedrunner/DigitalLiteracy
 -Download a binary from the [releases](https://github.com/JustASpeedrunner/DigitalLiteracyCalculatorRewritePartTwo/releases) tab
 
 **NOTE:** I cannot guarentee the functionality of binaries for Windows, as I do not have a machine to test it on. If the binary does not work for you, please use Method 1.
+
+In case you for some reason wanted to git clone and use this, it's licensed under the GPL3 license.
